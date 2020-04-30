@@ -1,4 +1,4 @@
-Проектируем применение ports&adapters и Layered Architecture к проекту SmartHome.
+Идея применения ports&adapters и Layered Architecture к проекту SmartHome.
 
 Посмотрим на луковую архитектиру.
 На внутреннем слое у нас хранятся сущности. Это классы SmartHome, Room, Light, Door и т. д. 
